@@ -85,10 +85,6 @@ Detailed Markov models, uncertainty analysis, and comparative tables are summari
 │   ├── architectural_overview.md      ← Layer responsibilities (no component IDs)
 │   ├── reliability_outcomes.md        ← Performance metrics & high-level models
 │   └── design_philosophy.md           ← Safety & maintainability rationale
-├── hardware/                          ← Placeholder (full BOM & schematics on request)
-├── analysis/                          ← Placeholder (raw data on request)
-└── images/                            ← Placeholder (figures on request)
-```
 
 ---
 
