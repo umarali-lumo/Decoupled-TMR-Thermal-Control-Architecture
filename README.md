@@ -86,6 +86,7 @@ Detailed Markov models, uncertainty analysis, and comparative tables are summari
 │   ├── reliability_outcomes.md        ← Performance metrics & high-level models
 │   └── design_philosophy.md           ← Safety & maintainability rationale
 
+```
 ---
 
 ## Authors
@@ -106,5 +107,3 @@ This work is **proprietary** and currently under review.
 - Contact the author for access or citation permissions.
 
 See `LICENSE` and `CITATION.cff` for formal statements.
-
-**Recommendation:** Keep any GitHub mirror of this repository **private** until the manuscript decision is final.
