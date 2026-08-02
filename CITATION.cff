@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or reference this research (with permission), please cite it as below."
+type: software
+title: "A Decoupled Triple Modular Redundant (TMR) Thermal Control Architecture with Automated Sensor Degradation and Hardware Fallback Diagnostics"
+authors:
+  - family-names: "Ali"
+    given-names: "Syed Umar"
+    email: "umarali.35@iiee.edu.pk"
+    affiliation: "Department of Industrial Electronics Engineering, IIEE-NEDUET"
+version: "0.1.0-teaser-under-review"
+date-released: "2026-08-02"
+license: proprietary
+abstract: >
+  High-level architectural overview of a fault-tolerant thermal control system
+  that augments classical Triple Modular Redundancy with predictive sensor
+  degradation monitoring and an autonomous hardware safety latch. Full
+  implementation details are available only upon formal request.
+keywords:
+  - Triple Modular Redundancy
+  - Fault Tolerance
+  - Sensor Degradation Monitoring
+  - Thermal Control
+  - Hardware Safety Latch
+  - Predictive Diagnostics
+repository-code: "PRIVATE – Technical Teaser only"
+contact:
+  - email: "umarali.35@iiee.edu.pk"
+    name: "Syed Umar Ali"
